@@ -1,6 +1,8 @@
 # Get Started with ASP.NET Core
 
-Below you will find the steps to build your first ASP.NET Core app. See [Get Started with ASP.NET](http://www.asp.net/get-started/framework) if you are looking to get started with ASP.NET and the .NET Framework on Windows. [Learn more](http://www.asp.net/learn) about the difference between ASP.NET and ASP.NET Core.
+Below you will find the steps to build your first ASP.NET Core app.  
+See [Get Started with ASP.NET](http://www.asp.net/get-started/framework) if you are looking to get started with ASP.NET and the .NET Framework on Windows.  
+[Learn more](http://www.asp.net/learn) about the difference between ASP.NET and ASP.NET Core.
 
 Let's start by building a simple "Hello, world!" app.
 
